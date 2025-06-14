@@ -1,5 +1,5 @@
 # Census-Income-Analysis
-In this project we will perform statistical analysis on the Census Income data where extraction was done by Barry Becker from the 1994 Census database. A set of reasonably clean records was extracted from the US census data and in order to add anonimity among many things a lot of data has been masked. Even then its still one of the most extenstive Census Income dataset avaialable as generally only tables statistics are available for Census data across multiple countries.
+In this project we will perform statistical analysis using R on the Census Income data where extraction was done by Barry Becker from the 1994 Census database. A set of reasonably clean records was extracted from the US census data and in order to add anonimity among many things a lot of data has been masked. Even then its still one of the most extenstive Census Income dataset avaialable as generally only tables statistics are available for Census data across multiple countries.
 
 Main predictive goal for the dataset was to predict for the proportion of people having income greater than 50K USD, adjusting for the inflation this amount would be 102K USD as of date of the making this report. This is the individual income, not the household income, and following that 50K was indeed a representation of high income group on 1994.
 
